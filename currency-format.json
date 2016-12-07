@@ -1793,6 +1793,20 @@
       "rtl": false
     }
   },
+  "XBT": {
+    "name": "BitCoin",
+    "fractionSize": 7,
+    "symbol": {
+      "grapheme": "<i></i>",
+      "template": "<i></i>1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "<i></i>",
+      "template": "<i></i>1",
+      "rtl": false
+    }
+  },
   "USN": {
     "name": "US Dollar (Next day)",
     "fractionSize": 2,
